@@ -1,0 +1,40 @@
+*{
+    font-family: Verdana,"Geneva",Tahoma,sans-serif;
+    background-color: antiquewhite;
+    font-size: 17px;
+}
+
+#ilustracao{
+    width: auto;
+    height: 400px;
+}
+
+.titulo{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: rgb(221, 1, 45);
+}
+
+h2.titulo{
+    font-size: 30px;
+}
+
+.receitas,
+a{
+    color: black;
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 200px;
+}
+
+.descricao{
+    text-align: center;
+}

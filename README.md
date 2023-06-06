@@ -1,5 +1,5 @@
 # odin-recipes
-/-- Primeiro site, sem utilizar CSS --/
+/-- Primeiro site, agora utilizando CSS --/
 
 Utilize os atalhos para navegar da pagina inicial para quaisquer
 uma das receitas listadas.
